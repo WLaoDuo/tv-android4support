@@ -1,6 +1,7 @@
 # 我的電視·〇
 
 電視網絡視頻播放軟件，可以自定義視頻源
+亲测android4.4可使用
 
 [my-tv-0](https://github.com/lizongying/my-tv-0)
 
